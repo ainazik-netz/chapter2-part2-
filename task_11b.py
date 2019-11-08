@@ -1,0 +1,6 @@
+word = input('Write one word: ')
+print(f string[2])
+print(string[-2])
+print(string[:4])
+print(string[-1:-2])
+print()
